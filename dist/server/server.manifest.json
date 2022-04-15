@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/article-card.js": "components/article-card.js",
+    "components/cover.js": "components/cover.js",
+    "components/pagination.js": "components/pagination.js",
+    "components/side.js": "components/side.js",
+    "pages/archive/_slug/index.js": "pages/archive/_slug/index.js",
+    "pages/archive/_slug/page/_page.js": "pages/archive/_slug/page/_page.js",
+    "pages/article/_slug.js": "pages/article/_slug.js",
+    "pages/author/_slug/index.js": "pages/author/_slug/index.js",
+    "pages/author/_slug/page/_page.js": "pages/author/_slug/page/_page.js",
+    "pages/index.js": "pages/index.js",
+    "pages/page/_page.js": "pages/page/_page.js",
+    "pages/search/index.js": "pages/search/index.js",
+    "pages/tag/_slug/index.js": "pages/tag/_slug/index.js",
+    "pages/tag/_slug/page/_page.js": "pages/tag/_slug/page/_page.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/article-card.js": "components/article-card.js.map",
+    "components/cover.js": "components/cover.js.map",
+    "components/pagination.js": "components/pagination.js.map",
+    "components/side.js": "components/side.js.map",
+    "pages/archive/_slug/index.js": "pages/archive/_slug/index.js.map",
+    "pages/archive/_slug/page/_page.js": "pages/archive/_slug/page/_page.js.map",
+    "pages/article/_slug.js": "pages/article/_slug.js.map",
+    "pages/author/_slug/index.js": "pages/author/_slug/index.js.map",
+    "pages/author/_slug/page/_page.js": "pages/author/_slug/page/_page.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/page/_page.js": "pages/page/_page.js.map",
+    "pages/search/index.js": "pages/search/index.js.map",
+    "pages/tag/_slug/index.js": "pages/tag/_slug/index.js.map",
+    "pages/tag/_slug/page/_page.js": "pages/tag/_slug/page/_page.js.map",
+    "server.js": "server.js.map"
+  }
+}
